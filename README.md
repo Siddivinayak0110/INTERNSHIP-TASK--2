@@ -1,5 +1,17 @@
 # INTERNSHIP-TASK--2
 ## SPEECH RECOGNITION SYSTEM 
+
+*Name:* Siddhivinayak Vishwas Gaikwad
+
+*Company:* CODTECH IT SOLUTION 
+
+*Intern ID:* CTIS3753
+
+*Domain:* Artificial Intelligence 
+
+*Period:* 27 January 2026 - 10 March 2026
+
+# Overview Of Project
 Project Description
 
 This project is a web-based Speech Recognition System that converts spoken audio into text using pre-trained speech recognition models. The system allows users to upload short audio files in WAV format, processes the audio using a speech recognition engine, and displays the transcribed text on the web interface.
