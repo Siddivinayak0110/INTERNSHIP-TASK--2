@@ -53,4 +53,4 @@ The transcribed text is displayed on the webpage.
  Beginner-friendly architecture
 
  ## Result:
- 
+ <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/eafa538f-1a1e-4b3c-b2f1-2cd97ca825d1" />
